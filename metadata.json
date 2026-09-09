@@ -1,0 +1,8 @@
+{
+  "name": "Zero Cool Commerce",
+  "description": "A premium, data-driven product selling platform with varying product lifecycle stages and an integrated admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
